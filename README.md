@@ -1,6 +1,6 @@
 
 #
-![Logo Teckel Uniformes](assets\image\TECKELLOGO_relieve.png)
+![Logo Teckel Uniformes](assets/image/TECKELLOGO_relieve.png)
 
 #
 # *Teckel Uniformes*
