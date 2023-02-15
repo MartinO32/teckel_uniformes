@@ -9,6 +9,7 @@ from fecha import FechaDeHoy
 #from deposito import Deposito
 #from contactos import Contactos
 
+
 class teckel(QMainWindow):
 	def __init__(self):
 		super(teckel, self).__init__()

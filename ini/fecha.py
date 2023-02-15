@@ -1,5 +1,6 @@
 from datetime import datetime, date
 
+
 class FechaDeHoy():
     def __init__(self):
         self.dia_semana=date.today().weekday()
