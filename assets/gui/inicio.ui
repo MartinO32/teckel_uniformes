@@ -791,8 +791,8 @@ de Pedidos  </string>
              <colorrole role="Button">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -800,8 +800,8 @@ de Pedidos  </string>
              <colorrole role="Light">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>127</red>
-                <green>170</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -809,8 +809,8 @@ de Pedidos  </string>
              <colorrole role="Midlight">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>63</red>
-                <green>127</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -818,8 +818,8 @@ de Pedidos  </string>
              <colorrole role="Dark">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>42</green>
+                <red>127</red>
+                <green>127</green>
                 <blue>127</blue>
                </color>
               </brush>
@@ -827,8 +827,8 @@ de Pedidos  </string>
              <colorrole role="Mid">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>56</green>
+                <red>170</red>
+                <green>170</green>
                 <blue>170</blue>
                </color>
               </brush>
@@ -872,8 +872,8 @@ de Pedidos  </string>
              <colorrole role="Window">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -890,8 +890,8 @@ de Pedidos  </string>
              <colorrole role="AlternateBase">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>127</red>
-                <green>170</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -928,8 +928,8 @@ de Pedidos  </string>
              <colorrole role="Button">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -937,8 +937,8 @@ de Pedidos  </string>
              <colorrole role="Light">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>127</red>
-                <green>170</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -946,8 +946,8 @@ de Pedidos  </string>
              <colorrole role="Midlight">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>63</red>
-                <green>127</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -955,8 +955,8 @@ de Pedidos  </string>
              <colorrole role="Dark">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>42</green>
+                <red>127</red>
+                <green>127</green>
                 <blue>127</blue>
                </color>
               </brush>
@@ -964,8 +964,8 @@ de Pedidos  </string>
              <colorrole role="Mid">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>56</green>
+                <red>170</red>
+                <green>170</green>
                 <blue>170</blue>
                </color>
               </brush>
@@ -1009,8 +1009,8 @@ de Pedidos  </string>
              <colorrole role="Window">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1027,8 +1027,8 @@ de Pedidos  </string>
              <colorrole role="AlternateBase">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>127</red>
-                <green>170</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1056,8 +1056,8 @@ de Pedidos  </string>
              <colorrole role="WindowText">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>42</green>
+                <red>127</red>
+                <green>127</green>
                 <blue>127</blue>
                </color>
               </brush>
@@ -1065,8 +1065,8 @@ de Pedidos  </string>
              <colorrole role="Button">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1074,8 +1074,8 @@ de Pedidos  </string>
              <colorrole role="Light">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>127</red>
-                <green>170</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1083,8 +1083,8 @@ de Pedidos  </string>
              <colorrole role="Midlight">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>63</red>
-                <green>127</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1092,8 +1092,8 @@ de Pedidos  </string>
              <colorrole role="Dark">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>42</green>
+                <red>127</red>
+                <green>127</green>
                 <blue>127</blue>
                </color>
               </brush>
@@ -1101,8 +1101,8 @@ de Pedidos  </string>
              <colorrole role="Mid">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>56</green>
+                <red>170</red>
+                <green>170</green>
                 <blue>170</blue>
                </color>
               </brush>
@@ -1110,8 +1110,8 @@ de Pedidos  </string>
              <colorrole role="Text">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>42</green>
+                <red>127</red>
+                <green>127</green>
                 <blue>127</blue>
                </color>
               </brush>
@@ -1128,8 +1128,8 @@ de Pedidos  </string>
              <colorrole role="ButtonText">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>42</green>
+                <red>127</red>
+                <green>127</green>
                 <blue>127</blue>
                </color>
               </brush>
@@ -1137,8 +1137,8 @@ de Pedidos  </string>
              <colorrole role="Base">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1146,8 +1146,8 @@ de Pedidos  </string>
              <colorrole role="Window">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
@@ -1164,8 +1164,8 @@ de Pedidos  </string>
              <colorrole role="AlternateBase">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>0</red>
-                <green>85</green>
+                <red>255</red>
+                <green>255</green>
                 <blue>255</blue>
                </color>
               </brush>
